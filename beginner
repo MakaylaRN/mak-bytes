@@ -1,4 +1,16 @@
-echo "# mak-bytes" >> README.md
+<!DOCTYPE html>
+<html>
+<head>
+<title>In the beginning</title>
+    </head>
+<body>
+  <h1>This is my first rodeo!</h1>
+    <p>So I decided to give the coding world a go. I've been a nurse for 6 years and still am just wondering what
+    the hell I am doing with my life. So here I am, trying to learn a new language and change and or improve my career.</p>
+</body>
+    </html>
+    
+    echo "# mak-bytes" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
