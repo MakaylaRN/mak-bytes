@@ -9,10 +9,4 @@
     the hell I am doing with my life. So here I am, trying to learn a new language and change and or improve my career.</p>
 </body>
     </html>
-    
-    echo "# mak-bytes" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/MakaylaRN/mak-bytes.git
-git push -u origin master
+
